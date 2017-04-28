@@ -1,2 +1,2 @@
-# deep_tabular_loader
+# deep_dump_loader
 MySQL dump parallel loader
